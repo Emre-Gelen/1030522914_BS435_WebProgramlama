@@ -1,2 +1,5 @@
-# 1030522914_BS435_WebProgramlama
-A repository for homework.
+Öğrenci Numarası: 1030522914
+
+Öğrenci Adı: Emre GELEN
+
+Ders Adı: BS435 Web Programlama
