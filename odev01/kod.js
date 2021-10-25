@@ -9,12 +9,12 @@ function btnOnClick(comp) {
     var selectedId = comp.id.match(/\d+$/)[0]
     if (!gameOver) {
         if (selectedId == trueCard && hak > 1) {
-            comp.src = '../odev1/Images/cat.jpg'
+            comp.src = '../odev01/Images/cat.jpg'
             document.getElementById('kazandiId').style.display = 'unset'
             gameOver=true;
         }
         else if (hak > 1) {
-            comp.src = '../odev1/Images/dog.jpg'
+            comp.src = '../odev01/Images/dog.jpg'
             hak -= 1;
         }
         else if (hak == 1) {
