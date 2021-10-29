@@ -28,6 +28,6 @@
     "collectCoverageFrom":[
       "src/**/*.(js|jsx)"
     ],
-    "testRegex":"tests/.*-test\\.(js|jsx)"
+    "testRegex":"tests/.-test\\.(js|jsx)"
   }
 }
